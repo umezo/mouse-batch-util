@@ -13,9 +13,10 @@
  * https://github.com/flowtype/flow-typed
  */
 
+type Matrix = any;
+
 declare module 'opencv' {
   declare module.exports: any;
-  declare type Matrix;
 }
 
 /**
