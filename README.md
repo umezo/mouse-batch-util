@@ -1,7 +1,9 @@
 # Requirement
-some presetup is required.
-check instruction
-- [node-opencv](https://github.com/peterbraden/node-opencv)
+
+- node v7.6.0 ~
+  - async / await
+- opencv
+  - setup according to [node-opencv](https://github.com/peterbraden/node-opencv) readme
 
 # Support
 Environments supported by this library depends on backend libraries.
