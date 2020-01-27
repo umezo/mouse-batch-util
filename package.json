@@ -12,7 +12,7 @@
     "robotjs": "^0.6.0"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^3.1.0",
     "flow-bin": "^0.115.0"
   }
 }
