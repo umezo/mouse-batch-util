@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "ava": "^0.19.1",
-    "flow-bin": "^0.115.0"
+    "flow-bin": "^0.119.0"
   }
 }
